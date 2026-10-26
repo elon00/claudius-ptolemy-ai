@@ -1,0 +1,14 @@
+{
+  "project": "claudius-ptolemy-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "FssxWExkb3tbRUSLxdQ1VnBTcuefBVzfz2PBYRW5V9x8",
+  "vault_account": "8oVm4AYitPzv8RH449JAwphHTNd7kjUk6FAvJmeU5EaR",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5dA2U2D67sgQzz1AKTV5Eid1jQLR6JCezu5iNgrG44NUown2RsYGQNg41FqzS1KMtP21AKsUg8FknjTwmyaEzDXy",
+  "account_tx": "3ZdumBFLVmoJYQi8DVjz8oXTVdbzXZTx3XrZLvjKstAxb9YURRXz3NatN6nKptrabnAVFUNoTP77jdqt2vtEVcFa",
+  "mint_tx": "2Ai5zSPha6ncbSHufB2MrMRygYQ6JoSYXUuLDJc91UrguDN1qVpNoKw4diSEvxUcz62THyg5oL4XmtrniuHw3Q7z",
+  "solana_explorer_mint": "https://explorer.solana.com/address/FssxWExkb3tbRUSLxdQ1VnBTcuefBVzfz2PBYRW5V9x8?cluster=devnet",
+  "timestamp": "2026-10-26 16:27:08 UTC"
+}
